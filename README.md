@@ -1,3 +1,3 @@
 # snakegame
 
-A snakegame in Javascript 
+An easy snakegame in Javascript 
